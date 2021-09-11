@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicolasaubrun02@gmail.com
+	name = Nicolas Aubrun
